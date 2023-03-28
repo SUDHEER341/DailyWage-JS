@@ -1,0 +1,1 @@
+# DailyWage problem using javascript
